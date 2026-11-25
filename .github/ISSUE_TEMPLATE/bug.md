@@ -1,8 +1,8 @@
 ---
 name: 버그 신고
 about: 화면이나 계산이 잘못 나올 때
-title: ''
-labels: ''
+title: '[Bug] '
+labels: 'type:bug'
 assignees: ''
 ---
 
@@ -13,7 +13,7 @@ assignees: ''
 ## 무엇이 잘못됐나
 -
 
-## 원래 이래야 함
+## 원래 이래야 함 (됐는지 바로 가릴 목표 한 줄)
 -
 
 ## 다시 해 보는 순서
