@@ -1,5 +1,5 @@
 ---
-name: 버그
+name: 버그 신고
 about: 화면이나 계산이 잘못 나올 때
 title: ''
 labels: ''
